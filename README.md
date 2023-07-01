@@ -1,2 +1,5 @@
 # learning-automation-repo
-Selenium, Postman, Appium, Api
+Selenium
+Postman 
+Appium 
+Api
